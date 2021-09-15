@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mounis-bhat
+- 👋 Hi, I’m Mounis
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on Frontend Projects
